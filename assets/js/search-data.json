@@ -727,13 +727,13 @@
     "relUrl": "/en/faq/reacts-for-ios/general-use/0-5206396082077/"
   }
   ,"121": {
-    "title": "Why do I receive Reacts email "New Instant Message from ***"?",
+    "title": "Why do I receive Reacts email New Instant Message from",
     "content": "If you are not logged into Reacts, you will receive a Reacts email if you receive an instant message in Reacts. Please note that you will not receive one email per message. You will only receive one email per conversation per 30 mins. For example : if your counterpart sends you several messages in the same conversation in the next 50 minutes while you are not connected to Reacts, you will receive 2 email notifications.",
     "url": "/en/faq/general-questions/0-5932300032925/",
     "relUrl": "/en/faq/general-questions/0-5932300032925/"
   }
   ,"122": {
-    "title": "Pourquoi est-ce que je reçois des courriels "Nouveau message de ***"?",
+    "title": "Pourquoi est-ce que je reçois des courriels Nouveau message",
     "content": "Vous recevrez un courriel Reacts si vous recevez un message dans Reacts alors que vous n’êtes pas connecté à l’application. Veuillez noter que vous ne recevrez pas un courriel pour chaque message reçu. Vous recevrez seulement un courriel par conversation par 30 minutes. Par exemple : si votre interlocuteur vous envoie plusieurs messages au courant des 50 prochaines minutes alors que vous n’êtes pas connectés à Reacts, vous recevrez 2 courriels de notifications.",
     "url": "/fr/faq/general-questions/0-5932300032925/",
     "relUrl": "/fr/faq/general-questions/0-5932300032925/"
@@ -979,25 +979,25 @@
     "relUrl": "/en/faq/reacts-for-windows/general-use/1-360036008132/"
   }
   ,"163": {
-    "title": "",
+    "title": "Reacts Windows How to update your Reacts application when a new mandatory version is available",
     "content": "Please note that the Windows version of the application possesses a silent updater, so it is highly probable that new versions are downloaded and installed without requiring further actions.   In the eventuality that the application is not the newest updated version, here are the steps to follow:  Login to Reacts  Once in the Windows Reacts application:  a “A new mandatory version of Reacts is available” window will open Click on the “Quit Reacts” button on said window : Wait five minutes Reopen Reacts.  The update is now complete, and you can proceed to log in.",
     "url": "/en/faq/reacts-for-windows/installation-&-updates/1-360039296791/",
     "relUrl": "/en/faq/reacts-for-windows/installation-&-updates/1-360039296791/"
   }
   ,"164": {
-    "title": "",
+    "title": "Reacts Windows Comment mettre à jour l'application Reacts lorsqu'une nouvelle version obligatoire est disponible",
     "content": "Prenez note que l’application windows est munie d’une mise à jour automatique, donc il est fort probable que les versions soient téléchargées et installées sans avoir besoin d’action.  Dans l’éventualité où la version que vous avez ouverte n’est pas la plus récente, voici les étapes à suivre:  Se connecter à Reacts une fois dans l’application Reacts Windows: une nouvelle fenêtre “Une nouvelle version de Reacts est nécessaire” s’affichera. Cliquer sur le bouton “Quitter Reacts” de la fenêtre : Attendre 5 min. Réouvrir Reacts. La mise à jour est complétée et vous pouvez vous reconnecter.",
     "url": "/fr/faq/reacts-for-windows/installation-&-updates/1-360039296791/",
     "relUrl": "/fr/faq/reacts-for-windows/installation-&-updates/1-360039296791/"
   }
   ,"165": {
-    "title": "",
+    "title": "Reacts iOS Comment mettre à jour l’application Reacts lorsqu’une nouvelle version obligatoire est disponible",
     "content": "Prenez note qu’il est possible que votre appareil iOS fasse les mises à jour des applications automatiquement. Dans ce cas, vous pouvez continuer à utiliser Reacts sans interruptions.  Mais si cela n’est pas le cas, voici les étapes à suivre pour mettre à jour votre application:  Ourvrir l’application Reacts Se connecter à l’application: une nouvelle fenêtre “Mise à jour requise” s’affichera Appuyer sur le bouton “Mettre à jour Reacts” : Vous serez redirigé vers la page du AppStore pour Reacts Appuyer sur le bouton “Mettre à jour”: Réouvrir Reacts  La mise à jour est complétée et vous pouvez vous reconnecter.",
     "url": "/fr/faq/reacts-for-ios/installation-&-updates/1-360039297591/",
     "relUrl": "/fr/faq/reacts-for-ios/installation-&-updates/1-360039297591/"
   }
   ,"166": {
-    "title": "",
+    "title": "Reacts iOS How to update your Reacts application when a new mandatory version is available",
     "content": "Please note that it is possible that application updates are done automatically on your iOS device. In which case, you can continue to use Reacts without interruptions.  If that is not the case, here are the steps to update your application manually:  Open Reacts Login to Reacts: a new “Update required” window will open  Tap on the “Update Reacts” button : You will be redirected to Reacts’ App Store page Tap on the “Update” button:   Reopen Reacts The update is complete, and you can proceed to log in.",
     "url": "/en/faq/reacts-for-ios/installation-&-updates/1-360039297591/",
     "relUrl": "/en/faq/reacts-for-ios/installation-&-updates/1-360039297591/"
@@ -1075,13 +1075,13 @@
     "relUrl": "/en/faq/troubleshooting/login-and-account-issues/1-4405017827485/"
   }
   ,"179": {
-    "title": "",
+    "title": "Sessions new saved and scheduled",
     "content": "Start a new session or open one of your previously created sessions   New session- opens Main working area from where you can start creating a new session or connect with one of your contacts. Saved Sessions- allows you to access, manage or edit previously saved sessions. Scheduled Sessions - allows you to schedule a session (acting as a host) or join a session with one or more of Reacts contacts (as attendee). To learn more about Scheduled Session, please see : How to schedule an event (https://www.youtube.com/watch?v=H8UOyQCswBk)",
     "url": "/en/faq/reacts-for-windows/session/10-202764225/",
     "relUrl": "/en/faq/reacts-for-windows/session/10-202764225/"
   }
   ,"180": {
-    "title": "",
+    "title": "Sessions nouvelles sauvegardées et planifiées",
     "content": "Démarrer une nouvelle session ou ouvrir une session existante  Nouvelle session – Ouvre la zone de travail principale vous permettant de créer une session ou d’établir une connexion avec l’un de vous contacts. Sessions sauvegardées – Vous permet de consulter, de gérer ou de modifier des sessions sauvegardées. Faites un clic droit sur une session pour l’ouvrir, la supprimer ou la renommer. Session planifièes - Vous permet d’organiser une session (à titre d’hôte) avec l’un ou plusieurs de vos contacts Reacts ou de prendre part (en tant que participant) à une session à laquelle on vous a invité. Pour en savoir davantage sur la planification de sessions, visionner : Comment planifier un évènement (https://youtu.be/GYNZ0bttKHA)",
     "url": "/fr/faq/reacts-for-windows/session/10-202764225/",
     "relUrl": "/fr/faq/reacts-for-windows/session/10-202764225/"
@@ -1459,25 +1459,25 @@
     "relUrl": "/fr/faq/reacts-for-windows/installation-&-updates/2-360000942083/"
   }
   ,"243": {
-    "title": "How to access "My account" page from WebApp",
+    "title": "How to access My account page from WebApp",
     "content": "While in Reacts WebApp, you can access your account information at any time.  To access your account page, you need to:  - Click on the three dot menu on the top right - Click on “Go to website” - Click on the arrow next to your name (on the top right) - Click on “My Account” You will now be able to view your account’s information and set up your Two-Factor Authentication.",
     "url": "/en/faq/reacts-for-webapp/general-use/2-360030178411/",
     "relUrl": "/en/faq/reacts-for-webapp/general-use/2-360030178411/"
   }
   ,"244": {
-    "title": "Comment accéder à la section "Mon Compte" depuis la WebApp",
+    "title": "Comment accéder à la section Mon Compte depuis la WebApp",
     "content": "Lorsque vous êtes connectés sur la WebApp, vous pouvez à tout moment accéder aux informations concernant votre compte sur notre site internet. Pour cela, veuillez : - Cliquer sur les trois buttons à côté de votre nom (en haut à gauche) - Cliquer sur “Retourner au site web” : une nouvelle page internet s’ouvrira automatiquement - Cliquer sur la flèche à côté de votre nom (en haut à droite)  -Cliquer sur “Mon compte” Vous pourrez alors consulter les différentes informations de votre compte ainsi que configurer l’authentification à deux facteurs",
     "url": "/fr/faq/reacts-for-webapp/general-use/2-360030178411/",
     "relUrl": "/fr/faq/reacts-for-webapp/general-use/2-360030178411/"
   }
   ,"245": {
-    "title": "",
+    "title": "Reacts Android How to update your Reacts application when a new mandatory version is available",
     "content": "Please note that it is possible that application updates are done automatically on your Android device. In which case, you can continue to use Reacts without interruptions.  If that is not the case, here are the steps to update your application manually:  Open Reacts Login on Reacts: a new “Login failed” window will open Tap on the “Download Reacts” button: You will be redirected to Reacts’ Google Play Store page Tap on the “Update” button: Reopen Reacts  The update is complete, and you can proceed to log in.",
     "url": "/en/faq/reacts-for-androids/installation-&-updates/2-360039298791/",
     "relUrl": "/en/faq/reacts-for-androids/installation-&-updates/2-360039298791/"
   }
   ,"246": {
-    "title": "",
+    "title": "Reacts Android Comment mettre à jour l’application Reacts lorsqu’une nouvelle version obligatoire est disponible",
     "content": "Prenez note qu’il est possible que votre appareil Android fasse les mises à jour des applications automatiquement. Dans ce cas, vous pouvez continuer à utiliser Reacts sans interruptions.  Mais si cela n’est pas le cas, voici les étapes à suivre pour mettre à jour votre application:  Ouvrir l’application Reacts  Se connecter à l’application : une nouvelle fenêtre “Échecs de connexion” s’affichera Appuyer sur le bouton “Télécharger Reacts” : Vous serez redirigé vers la page du Google Play Store pour Reacts Appuyer sur le bouton “Mettre à jour” :   Réouvrir Reacts  La mise à jour est complétée et vous pouvez vous reconnecter.",
     "url": "/fr/faq/reacts-for-androids/installation-&-updates/2-360039298791/",
     "relUrl": "/fr/faq/reacts-for-androids/installation-&-updates/2-360039298791/"
@@ -1567,7 +1567,7 @@
     "relUrl": "/en/faq/reacts-for-windows/session/3-202764265/"
   }
   ,"261": {
-    "title": "",
+    "title": "Comment créer un modèle de session toiles, grille dynamique interactive",
     "content": "Vous pouvez consulter le tutoriel vidéo Comment créer des scènes et des présentations : Créer des scènes / Préparer et enregistrer une session / Ouvrir une session sauvegardée / Comment présenter votre session sauvegardée à un contact (https://www.youtube.com/watch?v=YHWXXf2d9ag) Le modèle de session est une présentation que vous pouvez préparer au préalable et utiliser durant votre session en direct. Le modèle de session comprend deux scènes indépendantes sur lesquelles vous pouvez ajouter des couches d’éléments ou des arrière-plans différents. Pour créer un modèle de session à partir du menu principal, sélectionnez Sessions --&gt; Démarrer --&gt; Nouvelle session. Ajoutez ensuite des entrées ou des éléments à la toile principale (scène): La grille dynamique  - veuillez noter que la grille dynamique n’est plus disponibles Remarque : Les documents, les checklists, les rapports et les objets 3D ne peuvent pas être utilisés en tant qu’arrière-plan. De plus, les documents, les checklists et les rapports ne peuvent pas devenir des éléments superposés.** Vous pouvez gérer vos couches d’éléments de plusieurs façons : Faites un clic gauche pour sélectionner un élément et le déplacer, l’ajuster ou le faire pivoter; Faites un clic droit sur n’importe quel élément pour accéder à vos outils et gérer votre objet:   Si plusieurs objets se trouvent sur votre toile, utilisez l’option Couches dans la barre de menu pour gérer vos éléments: Pour modifier ou inverser vos arrière-plans, déverrouillez votre arrière-plan dans la barre de menu et glissez votre arrière-plan ou faites un clic droit pour plus d’options de modification:  Lorsque vous êtes prêt à sauvegarder votre session, accédez au Panneau d’actions, choisissez Session et Enregistrer: Vous devrez saisir le nom de votre session et cliquer sur Enregistrer: Pour plus de renseignements, consultez les documents :  Comment accéder à mes sessions sauvegardées et les gérer? Comment ouvrir une session et partager du contenu?",
     "url": "/fr/faq/reacts-for-windows/session/3-202764265/",
     "relUrl": "/fr/faq/reacts-for-windows/session/3-202764265/"
@@ -1777,13 +1777,13 @@
     "relUrl": "/fr/faq/reacts-for-windows/session/5-201916539/"
   }
   ,"297": {
-    "title": "",
+    "title": "I can't install Reacts receiving Error 1500. Another installation is in progress",
     "content": "You are trying to install Reacts and receiving the error message: “Error 1500. Another installation is in progress. You must complete that installation before continuing this one”   Make sure there is no other installation that runs or hangs in the background Click “Cancel” on the above message, open Task manager –&gt; Processes tab, look for any “msiexec” processes running and end the process(s). Then restart Reacts installation.",
     "url": "/en/faq/troubleshooting/installation-issues/5-206349936/",
     "relUrl": "/en/faq/troubleshooting/installation-issues/5-206349936/"
   }
   ,"298": {
-    "title": "Je ne peux pas installer Reacts, le message "une autre installation est en cours" s'affiche.",
+    "title": "Je ne peux pas installer Reacts, le message une autre installation est en cours s'affiche.",
     "content": "Vous êtes en train d’installer Reacts et ce message s’affiche : “une autre installation est en cours. Vous devez terminer cette installation avant de poursuivre.” S’assurer qu’aucune autre installation n’est en cours ou en attente en arrière plan Cliquer sur le bouton “Annuler” du message ci-dessus, ouvrir le Gestionnaire des tâches –&gt; Onglet processus, rechercher des processus “msiexec” en cours ou en fin d’exécution.",
     "url": "/fr/faq/troubleshooting/installation-issues/5-206349936/",
     "relUrl": "/fr/faq/troubleshooting/installation-issues/5-206349936/"
@@ -1873,13 +1873,13 @@
     "relUrl": "/en/faq/reacts-for-windows/session/6-203318725/"
   }
   ,"313": {
-    "title": "Les messages "Reacts n'a pas pu accéder aux serveurs» ou « Impossible de charger le fichier d’assemblage Name.dll ou l’une de ses composantes » s’affichent lorsque j’essaie d’ouvrir une session Reacts pour la première fois après l’installation",
-    "content": "  Remarque : Avant de suivre ces directives, veuillez vous assurer que vous n’avez pas de mise à jour Windows en attente. Le cas échéant, veuillez effectuer les mises à jour et redémarrer votre appareil, puis essayez d’exécuter Reacts à nouveau. Si les messages « Reacts n’a pas pu accéder aux serveurs » ou « Impossible de charger le fichier d’assemblage Name.dll ou l’une de ses composantes (Could not load file assembly “Name”.dll or one of it’s dependancies) » s’affichent lorsque vous exécutez la plus récente version de Reacts, la composante intitulée Visual C++ Redistributable Packages for Visual Studio 2013 peut être manquante ou expirée. Pour résoudre le problème, accédez au menu Démarrer de Windows, cliquez sur le panneau de configuration, puis sélectionnez Programmes et fonctionnalités où vous trouverez : « Microsoft Visual C ++2013 Redistributable (x86)… » ou « Microsoft Visual C ++ Redistributable Packages for Visual Studio 2013 » dans la liste. Faites un clic droit sur la composante Microsoft 2013 Redistributable et sélectionnez l’option « Modifier », puis « Réparer » pour la réparer. Fermez Reacts et exécutez l’application à nouveau. Vous devriez maintenant être en mesure de vous connecter. Si la réparation de la bibliothèque ne fonctionne pas, vous devrez désinstaller la composante « Microsoft Visual C ++ 2013 Redistributable (x86)… » ou « Microsoft Visual C ++ Redistributable Packages for Visual Studio 2013 » et la réinstaller à partir du site Web http://www.microsoft.com/en-us/download/details.aspx?id=40784 de Microsoft, puis cliquer sur Télécharger (Download). Sélectionnez vcredist_x64.exe et vcredist_x86.exe, puis cliquez sur le bouton Suivant (Next) et suivez les directives d’installation. Si vous ne trouvez pas la composante Microsoft Visual C++ 2013 Redistributable, veuillez visiter le site Web de Microsoft au http://www.microsoft.com/en-us/download/details.aspx?id=40784 et cliquez sur Télécharger (Download). Sélectionnez vcredist_x64.exe et vcredist_x86.exe, puis cliquez sur le bouton Suivant (Next) et suivez les directives d’installation.",
+    "title": "Les messages «Reacts n'a pas pu accéder aux serveurs» ou « Impossible de charger le fichier d’assemblage Name.dll ou une de ses composantes »",
+    "content": "Remarque : Avant de suivre ces directives, veuillez vous assurer que vous n’avez pas de mise à jour Windows en attente. Le cas échéant, veuillez effectuer les mises à jour et redémarrer votre appareil, puis essayez d’exécuter Reacts à nouveau. Si les messages « Reacts n’a pas pu accéder aux serveurs » ou « Impossible de charger le fichier d’assemblage Name.dll ou l’une de ses composantes (Could not load file assembly “Name”.dll or one of it’s dependancies) » s’affichent lorsque vous exécutez la plus récente version de Reacts, la composante intitulée Visual C++ Redistributable Packages for Visual Studio 2013 peut être manquante ou expirée. Pour résoudre le problème, accédez au menu Démarrer de Windows, cliquez sur le panneau de configuration, puis sélectionnez Programmes et fonctionnalités où vous trouverez : « Microsoft Visual C ++2013 Redistributable (x86)… » ou « Microsoft Visual C ++ Redistributable Packages for Visual Studio 2013 » dans la liste. Faites un clic droit sur la composante Microsoft 2013 Redistributable et sélectionnez l’option « Modifier », puis « Réparer » pour la réparer. Fermez Reacts et exécutez l’application à nouveau. Vous devriez maintenant être en mesure de vous connecter. Si la réparation de la bibliothèque ne fonctionne pas, vous devrez désinstaller la composante « Microsoft Visual C ++ 2013 Redistributable (x86)… » ou « Microsoft Visual C ++ Redistributable Packages for Visual Studio 2013 » et la réinstaller à partir du site Web http://www.microsoft.com/en-us/download/details.aspx?id=40784 de Microsoft, puis cliquer sur Télécharger (Download). Sélectionnez vcredist_x64.exe et vcredist_x86.exe, puis cliquez sur le bouton Suivant (Next) et suivez les directives d’installation. Si vous ne trouvez pas la composante Microsoft Visual C++ 2013 Redistributable, veuillez visiter le site Web de Microsoft au http://www.microsoft.com/en-us/download/details.aspx?id=40784 et cliquez sur Télécharger (Download). Sélectionnez vcredist_x64.exe et vcredist_x86.exe, puis cliquez sur le bouton Suivant (Next) et suivez les directives d’installation.",
     "url": "/fr/faq/troubleshooting/installation-issues/6-204887025/",
     "relUrl": "/fr/faq/troubleshooting/installation-issues/6-204887025/"
   }
   ,"314": {
-    "title": "I receive "Can not connect to servers" or "Could not load file assembly "Name".dll" or one of its dependencies" error messages when trying to log in to Reacts for the first time after installation",
+    "title": "I receive «Can not connect to servers» or «Could not load file assembly Name.dll or one of its dependencies»",
     "content": " Note: Prior to following this instruction please make sure you don’t have any Windows updates pending. If you do, install the updates first, restart your device and try to launch Reacts again  If you are getting «Cannot connect to server» or “Could not load file assembly “Name”.dll” or one of its dependencies.” error messages with your latest Reacts installation, issue might be caused by a missing or outdated Microsoft Windows components called Visual C++ Redistributable Packages for Visual Studio 2013 and Visual C++ Redistributable Packages for Visual Studio 2019 or more:   To solve the problem go to the Windows Start Menu, click on Control Panel, Click on Programs and Features and find: “Microsoft Visual C ++ 2013 Redistributable (x64)/(x86) …“ or “Microsoft Visual C ++ Redistributable Packages for Visual Studio 2013” “Microsoft Visual C ++ 2019 Redistributable (x64)/(x86) …“ or “Microsoft Visual C ++ Redistributable Packages for Visual Studio 2019” Once you’ve found the Microsoft Redistributable, Right click on it and choose “Change” and then “Repair”,  this should repair the component. Close and re-open Reacts, you should be able to connect now. If the repair of the library does not work, you will need to uninstall:  “Microsoft Visual C ++ 2013 Redistributable (x86) …“ and/or “Microsoft Visual C ++ Redistributable Packages for Visual Studio 2013” Microsoft Visual C ++ 2019 Redistributable (x86) …“ and/or “Microsoft Visual C ++ Redistributable Packages for Visual Studio 2019”  and re-install the components by going to the Microsoft website (please note: you need both components):  http://www.microsoft.com/en-us/download/details.aspx?id=40784 https://aka.ms/vs/17/release/vc_redist.x86.exe https://aka.ms/vs/17/release/vc_redist.x64.exe Click on Download, select vcredist_x64.exe and vcredist_x86.exe and click the Next button and follow the installation instructions. If you cannot find neither Microsoft Visual C++ 2013 Redistributable no Microsoft Visual C++ 2015 Redistributable, please visit the Microsoft website: http://www.microsoft.com/en-us/download/details.aspx?id=40784  https://aka.ms/vs/17/release/vc_redist.x86.exe https://aka.ms/vs/17/release/vc_redist.x64.exe Note: You need both components Click on Download, select vcredist_x64.exe and vcredist_x86.exe and click the Next button and follow the installation instructions.  ",
     "url": "/en/faq/troubleshooting/installation-issues/6-204887025/",
     "relUrl": "/en/faq/troubleshooting/installation-issues/6-204887025/"
@@ -2029,13 +2029,13 @@
     "relUrl": "/fr/faq/reacts-for-windows/session/9-201872959/"
   }
   ,"339": {
-    "title": "",
+    "title": "Surface Pro 3 WiFi Issues How to turn off InstantGo",
     "content": "What is InstantGo? InstantGo maintains network connectivity when your screen is off in standby mode, allowing the system to update things in the background, and keeping it ready to instantly resume. Prior to following this instruction make sure to save all the necessary information, data and documents, that are currently open on your Surface, as you would need to restart your device. ENABLE HYPER-V From the Charms Menu, search for Programs and features Open Programs and Features window and select Turn Windows features on or off from the menu on the left side. In the Windows features window, ensure the Hyper-V feature is checked  Restart your device TURN OFF INSTANTGO: CONFIGURE POWER OPTIONS From the Charms Menu, search for Power options. In the Power option window select Choose what the power buttons do  On the System settings window select Change settings that are currently unavailable  Uncheck the Turn on fast startup (recommended) box and Save changes Back at the main Power Options window, make sure the Balanced (recommended)option is selected and go to Change Plan Settings On the Edit power settings window, select Change advanced power settings On the advanced settings window under Wireless Adapter Settings/Power Saving Mode set to On Battery: Maximum Performance then click Apply DISABLE HYPER-V From the Charms Menu, search for Programs and features Open Programs and Features window and select Turn Windows features on or off from the menu on the left side. In the Windows features window, ensure the Hyper-V feature is unchecked  Restart your device",
     "url": "/en/faq/troubleshooting/installation-issues/9-204116849/",
     "relUrl": "/en/faq/troubleshooting/installation-issues/9-204116849/"
   }
   ,"340": {
-    "title": "",
+    "title": "Problèmes relatifs à la connexion WiFi de Surface Pro 3 Comment désactiver InstantGo",
     "content": "En quoi consiste InstantGo? InstantGo maintient la connectivité du réseau lorsque votre écran est éteint et que votre appareil passe en mode veille. Cette fonctionnalité permet à vos mises à jour de s’effectuer en arrière-plan et vous permet de reprendre instantanément vos activités. Avant de suivre ces directives, assurez-vous de sauvegarder tous les renseignements, les données et les documents importants ouverts sur votre Surface Pro, comme si vous deviez redémarrer votre appareil. ACTIVER HYPER-V À partir du menu Charms, saisissez la recherche Programmes et fonctionnalités Ouvrez la fenêtre Programmes et fonctionnalités et sélectionnez l’option « Activer ou désactiver les fonctionnalités de Windows » à partir du menu gauche de l’écran. Dans la fenêtre de fonctionnalités Windows, assurez-vous que la fonctionnalité Hyper-V est cochée. Redémarrez votre appareil. DÉSACTIVER INSTANTGO : PARAMÈTRES D’ALIMENTATION À partir du menu Charms, saisissez la recherche « Options d’alimentation ». Dans la fenêtre Options d’alimentation, sélectionnez l’option Choisir les fonctionnalités des boutons d’alimentation. Dans la fenêtre Paramètres du système, sélectionnez l’option Modifier les paramètres présentement non disponibles. Désélectionnez la case Activer le démarrage rapide (recommandé) et sauvegardez les modifications. Retournez dans la fenêtre Options d’alimentation et assurez-vous que l’option Équilibré (recommandé) soit sélectionnée, puis accédez à l’option Modifier les paramètres de planification de l’alimentation. Dans la fenêtre Modifier les paramètres d’alimentation, sélectionnez l’option Modifier les paramètres d’alimentation avancés. À partir de la fenêtre des paramètres avancés, sous l’option Paramètres de l’adaptateur sans-fil/d’économie d’énergie, sélectionnez le paramètre Alimentation sur pile : Performance maximale, puis cliquez sur Appliquer DÉSACTIVER HYPER-V À partir du menu Charms, saisissez la recherche « Programmes et fonctionnalités » Ouvrez la fenêtre Programmes et fonctionnalités et sélectionnez l’option Activer ou désactiver les fonctionnalités de Windows à partir du menu gauche de l’écran. Dans la fenêtre de fonctionnalités Windows, assurez-vous que la fonctionnalité Hyper-V ne soit pas cochée. Redémarrez votre appareil.",
     "url": "/fr/faq/troubleshooting/installation-issues/9-204116849/",
     "relUrl": "/fr/faq/troubleshooting/installation-issues/9-204116849/"
@@ -2115,8 +2115,8 @@
   ,"353": {
     "title": "WebApp note de mise à jours",
     "content": "",
-    "url": "/fr/faq/reacts-for-webapp/release-notes/",
-    "relUrl": "/fr/faq/reacts-for-webapp/release-notes/"
+    "url": "/fr/faq/reacts-for-webapp/release-note/",
+    "relUrl": "/fr/faq/reacts-for-webapp/release-note/"
   }
   ,"354": {
     "title": "Reacts Tableau de board",
@@ -2127,14 +2127,14 @@
   ,"355": {
     "title": "Windows note de mise à jours",
     "content": "",
-    "url": "/fr/faq/reacts-for-windows/release-notes/",
-    "relUrl": "/fr/faq/reacts-for-windows/release-notes/"
+    "url": "/fr/faq/reacts-for-windows/release-note/",
+    "relUrl": "/fr/faq/reacts-for-windows/release-note/"
   }
   ,"356": {
     "title": "Android release notes",
     "content": "",
-    "url": "/en/faq/reacts-for-androids/release-notes/",
-    "relUrl": "/en/faq/reacts-for-androids/release-notes/"
+    "url": "/fr/faq/reacts-for-android/release-note",
+    "relUrl": "/fr/faq/reacts-for-android/release-note"
   }
   ,"357": {
     "title": "Reacts pour Windows",
@@ -2145,20 +2145,20 @@
   ,"358": {
     "title": "Android note de mise à jours",
     "content": "",
-    "url": "/fr/faq/reacts-for-androids/release-notes/",
-    "relUrl": "/fr/faq/reacts-for-androids/release-notes/"
+    "url": "/en/faq/reacts-for-android/release-note",
+    "relUrl": "/en/faq/reacts-for-android/release-note"
   }
   ,"359": {
     "title": "Tableau de board notes de mise à jours",
     "content": "",
-    "url": "/fr/faq/reacts-dashboard/release-notes/",
-    "relUrl": "/fr/faq/reacts-dashboard/release-notes/"
+    "url": "/fr/faq/reacts-dashboard-release-note/",
+    "relUrl": "/fr/faq/reacts-dashboard-release-note/"
   }
   ,"360": {
     "title": "Reacts pour Android",
     "content": "",
-    "url": "/fr/faq/reacts-for-androids/",
-    "relUrl": "/fr/faq/reacts-for-androids/"
+    "url": "/fr/faq/reacts-for-android",
+    "relUrl": "/fr/faq/reacts-for-android"
   }
   ,"361": {
     "title": "Home",
@@ -2193,14 +2193,14 @@
   ,"366": {
     "title": "Windows release notes",
     "content": "",
-    "url": "/en/faq/reacts-for-windows/release-notes/",
-    "relUrl": "/en/faq/reacts-for-windows/release-notes/"
+    "url": "/en/faq/reacts-for-windows/release-note/",
+    "relUrl": "/en/faq/reacts-for-windows/release-note/"
   }
   ,"367": {
     "title": "iOS release notes",
     "content": "",
-    "url": "/en/faq/reacts-for-ios/release-notes/",
-    "relUrl": "/en/faq/reacts-for-ios/release-notes/"
+    "url": "/fr/faq/reacts-for-ios/release-note",
+    "relUrl": "/fr/faq/reacts-for-ios/release-note"
   }
   ,"368": {
     "title": "Reacts for iOS",
@@ -2211,8 +2211,8 @@
   ,"369": {
     "title": "iOS note de mise à jours",
     "content": "",
-    "url": "/fr/faq/reacts-for-ios/release-notes/",
-    "relUrl": "/fr/faq/reacts-for-ios/release-notes/"
+    "url": "/en/faq/reacts-for-ios/release-note",
+    "relUrl": "/en/faq/reacts-for-ios/release-note"
   }
   ,"370": {
     "title": "Reacts Dashboard",
@@ -2223,8 +2223,8 @@
   ,"371": {
     "title": "Dashboard release notes",
     "content": "",
-    "url": "/en/faq/reacts-dashboard/release-notes/",
-    "relUrl": "/en/faq/reacts-dashboard/release-notes/"
+    "url": "/en/faq/reacts-dashboard-release-note/",
+    "relUrl": "/en/faq/reacts-dashboard-release-note/"
   }
   ,"372": {
     "title": "Troubleshooting",
@@ -2247,14 +2247,14 @@
   ,"375": {
     "title": "WebApp release notes",
     "content": "",
-    "url": "/en/faq/reacts-for-webapp/release-notes/",
-    "relUrl": "/en/faq/reacts-for-webapp/release-notes/"
+    "url": "/en/faq/reacts-for-webapp/release-note/",
+    "relUrl": "/en/faq/reacts-for-webapp/release-note/"
   }
   ,"376": {
     "title": "Reacts for Android",
     "content": "",
-    "url": "/en/faq/reacts-for-androids/",
-    "relUrl": "/en/faq/reacts-for-androids/"
+    "url": "/en/faq/reacts-for-android",
+    "relUrl": "/en/faq/reacts-for-android"
   }
   ,"377": {
     "title": "Frequently Asked Questions",
@@ -2307,14 +2307,14 @@
   ,"385": {
     "title": "Reacts for Windows Video Tutorial",
     "content": "You can find all of our videos here",
-    "url": "/en/faq/reacts-for-windows/video-reacts-for-windows-video-tutorial/",
-    "relUrl": "/en/faq/reacts-for-windows/video-reacts-for-windows-video-tutorial/"
+    "url": "/en/faq/reacts-for-windows/video-tutorial",
+    "relUrl": "/en/faq/reacts-for-windows/video-tutorial"
   }
   ,"386": {
     "title": "Reacts pour Windows Video Tutoriels",
     "content": "Vous pouvez trouver toutes nos videos ici",
-    "url": "/fr/faq/reacts-for-windows/video-reacts-for-windows-video-tutorial/",
-    "relUrl": "/fr/faq/reacts-for-windows/video-reacts-for-windows-video-tutorial/"
+    "url": "/fr/faq/reacts-for-windows/video-tutorial",
+    "relUrl": "/fr/faq/reacts-for-windows/video-tutorial"
   }
   ,"387": {
     "title": "Webhooks",
